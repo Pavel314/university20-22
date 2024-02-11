@@ -1,0 +1,22 @@
+https://www.dostips.com/forum/viewtopic.php?t=3259
+
+https://stackoverflow.com/questions/20385885/echo-batch-file-arrays-using-a-variable-for-the-index
+
+https://stackoverflow.com/questions/2881483/exit-b-0-does-not-work
+
+https://stackoverflow.com/questions/4983508/can-i-have-an-if-block-in-dos-batch-file
+
+https://stackoverflow-com.translate.goog/questions/18423443/switch-statement-equivalent-in-windows-batch-file/19795694?_x_tr_sl=en&_x_tr_tl=ru&_x_tr_hl=ru&_x_tr_pto=sc
+
+https://stackoverflow.com/questions/20385885/echo-batch-file-arrays-using-a-variable-for-the-index
+
+https://stackoverflow.com/questions/1503888/floating-point-division-in-a-batch-file
+
+https://stackoverflow.com/questions/20385885/echo-batch-file-arrays-using-a-variable-for-the-index
+
+https://superuser.com/questions/588401/random-number-in-a-batch-file-doesnt-change
+
+https://stackoverflow.com/questions/5777400/how-to-use-random-in-batch-script/5823530#5823530
+
+Для создания текстовый представлений монеты и кости использовано программное средство ASCII Generator:
+https://ascgendotnet.jmsoftware.co.uk/

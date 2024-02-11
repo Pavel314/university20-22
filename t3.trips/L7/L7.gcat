@@ -1,0 +1,12 @@
+<Catalogue
+	CID = "1"
+	NextCID = "2">
+	<Files
+		CID = "1">
+		<FileInfo
+			ID = "CCDD1F23-CE36-4835-9AA7B25B54129994"
+			RelativePath = "L7_dsgn.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "L7_dsgn.gui"/>
+	</Files>
+</Catalogue>

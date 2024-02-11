@@ -1,0 +1,18 @@
+<Workspace
+	CID = "1"
+	NextCID = "2"
+	IconCategory = "Miscellaneous">
+	<OpenFiles
+		CID = "1"
+		LastActive = "2">
+		<File
+			RootPath = "$Absolute"
+			RelativePathname = "D:\PGU\ТРИПС\L2\L2_proj\L2_dsgn2.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "CCDD1F23-CE36-4835-9AA7B25B54129994"
+			RootPath = "$Container"
+			RelativePathname = "L7_dsgn.gui"
+			ViewSettings = ""/>
+	</OpenFiles>
+</Workspace>
